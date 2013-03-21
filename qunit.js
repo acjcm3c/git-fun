@@ -14,3 +14,7 @@ function test() {
 function tammy() {
 	console.log("tammy was here");
 }
+
+public function testTammy() {
+	console.log('tammy');
+}
