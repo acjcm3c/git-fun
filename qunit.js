@@ -11,3 +11,6 @@ function test() {
 	equals(result, $('input#ResultTestBox').val(), "testing result box value");
 }
 
+function tammy() {
+	console.log("tammy was here");
+}
